@@ -9,8 +9,8 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 ## Programming Languages
 
-- Python 3 (6 years experience)
-- Nim (Learning)
+- ![pylogo](https://user-images.githubusercontent.com/23456189/110928495-39b41b00-8327-11eb-97ec-ed253c09980c.png)
+
 
 ## IDEs
 
