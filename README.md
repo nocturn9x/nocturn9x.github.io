@@ -10,7 +10,6 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 ## Programming Languages
 
 ![langlogo](https://user-images.githubusercontent.com/23456189/110928495-39b41b00-8327-11eb-97ec-ed253c09980c.png)
-
 ![langlogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/nim.svg)
 
 
