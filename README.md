@@ -15,8 +15,8 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 ## IDEs
 
-- PyCharm Professional
-- Visual Studio Code
+![idelogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/pycharm.png)
+![idelogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/vscode.png)
 
 ## Operating Systems
 
