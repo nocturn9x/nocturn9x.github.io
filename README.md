@@ -20,7 +20,7 @@ I'm an italian 18 years old backend developer and I'm passionate about programmi
 
 ## Operating Systems
 
-![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/debian.png)
+![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/debian_logo.png)
 ![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/raspbian.png)
 ![oslogo](https://raw.githubusercontent.com/nocturn9x/nocturn9x.github.io/main/images/manjaro.png)
 
